@@ -1,0 +1,22 @@
+
+.bgColor {
+    background-color : #FFBF00;
+}
+
+.input-group {
+    margin: 0 auto;
+}
+
+.jumbotron {
+    background-color: #FFBF00;
+}
+
+.paraWrap {
+    display : inline;
+    word-wrap: break-word;
+}
+
+.logoImg {
+    width : 300px;
+    height : 50px;
+}
